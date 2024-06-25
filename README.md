@@ -1,3 +1,5 @@
+Crafting meticulously designed, responsive web pages by implementing Figma grid layouts with HTML, CSS, SASS, and JavaScript.
+
 Technologies Used:
         HTML5
         CSS3
