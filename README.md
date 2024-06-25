@@ -1,4 +1,4 @@
-Crafting meticulously designed, responsive web pages by implementing Figma grid layouts with HTML, CSS, SASS, and JavaScript.
+Description: This website is designed to be responsive across various devices. Users can navigate through the site using the links in the navigation bar and enjoy animations and transitions that enhance their experience.
 
 Technologies Used:
         HTML5
